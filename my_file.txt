@@ -1,0 +1,5 @@
+git init
+git add newfile.txt
+git commit -m "first commit"
+git remote add origin https://github.com/hitheima/xxxxxxxxxxxx.git
+git push -u origin master
